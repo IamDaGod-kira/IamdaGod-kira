@@ -20,7 +20,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/@iamdagod_kira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@iamdagod_kira" height="30" width="40" /></a>
-<a href="https://instagram.com/pritam_da_god" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pritam_da_god" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/extreme programming" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="extreme programming" height="30" width="40" /></a>
 </p>
 
